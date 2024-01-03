@@ -3,7 +3,11 @@ body{
     background-color: black;
     display: flex;
     justify-content: left;
+    width: 128px;
+    height: 196px;
 }
 .left{
     text-align: left;
+    max-width: 100%;
+    height: auto;
 }
